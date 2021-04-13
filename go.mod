@@ -1,4 +1,4 @@
-module github.com/yusaito04/sample-go-lib
+module github.com/yusaito04/samplegolib
 
 go 1.16
 
